@@ -2,6 +2,8 @@
 
 In This project we will learn about the sorting algorithms, the stable ones, the Big O notation and the way of evaluating the time complexity of an algorithm and also the way to select the best sorting algorithm.
 
+For this project we  are given the following print_array, and print_list functions
+
 # Mandatory Tasks
 
 | Task | Description |
